@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [Zig]()
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -647,6 +648,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
   - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
   - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
+ 
+- [Build a DNS server in rust](https://github.com/EmilHernvall/dnsguide/tree/master)
 
 ## Scala:
 
